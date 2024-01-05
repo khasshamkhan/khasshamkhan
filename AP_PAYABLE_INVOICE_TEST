@@ -1,0 +1,5 @@
+select * from AP_INVOICES_ALL
+Invoice Number
+Supplier Number
+Supplier Name
+Business Unit
